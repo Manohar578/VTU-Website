@@ -1,0 +1,39 @@
+{
+  "studentInfo": [
+    {
+      "_id": 1,
+      "registerId": "1STCS23146",
+      "studentName": "Priscilla",
+      "fatherName": "Mark Smith",
+      "collegeName": "Oxford University"
+    },
+    {
+      "_id": 2,
+      "registerId": "1STME23121",
+      "studentName": "Mark",
+      "fatherName": "Joe Smith",
+      "collegeName": "Oxford University"
+    },
+    {
+      "_id": 3,
+      "registerId": "1STECE23101",
+      "studentName": "Nethan",
+      "fatherName": "Nethan Doe",
+      "collegeName": "Oxford University"
+    },
+    {
+      "_id": 4,
+      "registerId": "1STIS23146",
+      "studentName": "Mary",
+      "fatherName": "Jack Smith",
+      "collegeName": "Oxford University"
+    },
+    {
+      "_id": 5,
+      "registerId": "1STIS23148",
+      "studentName": "Chari",
+      "fatherName": "chari",
+      "collegeName": "Oxford University"
+    }
+  ]
+}
